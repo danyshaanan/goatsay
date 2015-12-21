@@ -1,0 +1,49 @@
+{
+  "name": "goatsay",
+  "version": "0.0.0",
+  "description": "A goat-based variant of cowsay",
+  "keywords": [
+    "cowsay",
+    "cowthink",
+    "ascii",
+    "asciiart",
+    "cli",
+    "goat",
+    "goatsay",
+    "goatthink"
+  ],
+  "homepage": "https://github.com/danyshaanan/goatsay",
+  "author": {
+    "name": "Dany Shaanan",
+    "email": "danyshaanan@gmail.com",
+    "url": "http://danyshaanan.com/"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/danyshaanan/goatsay/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danyshaanan/goatsay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danyshaanan/goatsay",
+    "email": "danyshaanan@gmail.com"
+  },
+  "scripts": {},
+  "bin": {
+    "goatsay": "./goatsay.sh",
+    "goatthink": "./goatthink.sh"
+  },
+  "files": [
+    "goat.cow",
+    "goatsay.sh",
+    "goatthink.sh"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
